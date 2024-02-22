@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/b707e1eb.html</loc>
+    <loc>https://oouuou.github.io/posts/b707e1eb.html</loc>
     
     <lastmod>2024-02-22</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://oouuou.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2024-02-22</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://oouuou.github.io/tags/index.html</loc>
     
     <lastmod>2024-02-21</lastmod>
     
@@ -30,7 +30,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://oouuou.github.io/</loc>
     <lastmod>2024-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

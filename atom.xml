@@ -3,11 +3,11 @@
   <title>星沐</title>
   
   <subtitle>人生就是一直错过，一直遗憾</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://oouuou.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://oouuou.github.io/"/>
   <updated>2024-02-22T18:33:45.696Z</updated>
-  <id>http://example.com/</id>
+  <id>https://oouuou.github.io/</id>
   
   <author>
     <name>星沐</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇文章使用Hexo</title>
-    <link href="http://example.com/posts/b707e1eb.html"/>
-    <id>http://example.com/posts/b707e1eb.html</id>
+    <link href="https://oouuou.github.io/posts/b707e1eb.html"/>
+    <id>https://oouuou.github.io/posts/b707e1eb.html</id>
     <published>2024-02-21T03:04:55.110Z</published>
     <updated>2024-02-22T18:33:45.696Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://oouuou.github.io/posts/4a17b156.html"/>
+    <id>https://oouuou.github.io/posts/4a17b156.html</id>
     <published>2024-02-19T15:41:59.993Z</published>
     <updated>2024-02-22T16:45:48.856Z</updated>
     
