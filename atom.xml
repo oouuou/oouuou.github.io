@@ -6,7 +6,7 @@
   <link href="https://oouuou.github.io/atom.xml" rel="self"/>
   
   <link href="https://oouuou.github.io/"/>
-  <updated>2024-02-23T05:27:35.797Z</updated>
+  <updated>2024-02-23T05:34:43.846Z</updated>
   <id>https://oouuou.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://oouuou.github.io/posts/7edf331d.html"/>
     <id>https://oouuou.github.io/posts/7edf331d.html</id>
     <published>2024-02-23T04:24:30.000Z</published>
-    <updated>2024-02-23T05:27:35.797Z</updated>
+    <updated>2024-02-23T05:34:43.846Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一切顺利"><a href="#一切顺利" class="headerlink" title="一切顺利"></a>一切顺利</h1><p>不是在报错路上，就是在报错</p><p><img src="C:\Users\聂真豪\Desktop\Mynzh\source\images\3.png" alt=""></p><p><img src="C:\Users\聂真豪\Desktop\Mynzh\source\images\2.png" alt=""></p><p>​                                                嘿嘿！<br>   在一起，又太过于现实。<br>“我将手里的最后一根蜡烛熄灭，只为在黑暗中找到你，我的世界从前没有光，但你的身上全是光，我唯一的光”。<br>“你好，欢迎来到，门的世界！”😭</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="一切顺利"><a href="#一切顺利" class="headerlink" title="一切顺利"></a>一切顺利</h1><p>不是在报错路上，就是在报错</p><pre><code>                                           嘿嘿！</code></pre><p>   在一起，又太过于现实。<br>“我将手里的最后一根蜡烛熄灭，只为在黑暗中找到你，我的世界从前没有光，但你的身上全是光，我唯一的光”。<br>“你好，欢迎来到，门的世界！”😭</p>]]></content>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;一切顺利&quot;&gt;&lt;a href=&quot;#一切顺利&quot; class=&quot;headerlink&quot; title=&quot;一切顺利&quot;&gt;&lt;/a&gt;一切顺利&lt;/h1&gt;&lt;p&gt;不是在报错路上，就是在报错&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;C:&#92;Users&#92;聂真豪&#92;Desktop&#92;Mynzh&#92;sour</summary>
+&lt;pre&gt;&lt;code&gt;                                 </summary>
       
     
     
@@ -62,9 +62,9 @@
     <link href="https://oouuou.github.io/posts/b707e1eb.html"/>
     <id>https://oouuou.github.io/posts/b707e1eb.html</id>
     <published>2024-02-21T03:04:55.110Z</published>
-    <updated>2024-02-23T05:30:16.289Z</updated>
+    <updated>2024-02-23T05:34:40.517Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我的第一篇文章使用Hexo"><a href="#我的第一篇文章使用Hexo" class="headerlink" title="我的第一篇文章使用Hexo"></a>我的第一篇文章使用Hexo</h1><h2 id="2024-01-23"><a href="#2024-01-23" class="headerlink" title="2024.01.23"></a>2024.01.23</h2><p>​          在23号那天因为一个视频才开始学习包括各种视频.也是在那天看了很多视频在使用搭建Hexo过程中,遇到了太多的问题，第一次做这博客学习很多的东西，当然成品还可以。我呢，不是工程师，后面也在慢慢学，其实还有很多的问题。</p><h2 id="2024-02-20"><a href="#2024-02-20" class="headerlink" title="2024.02.20"></a>2024.02.20</h2><p>​     在这天，正式完成Hexo的全部搭建，我希望后面可以自己写一个属于我自己的主题，现在主题部分用的别人的，也包括域名。以后也会慢慢更新文章。</p><p>Hexo三连：</p><p>hexo clean：删除之前生成的文件，若未生成过静态文件，可忽略此命令。<br>hexo generate：生成静态文章，可以用hexo g缩写<br>hexo deploy：部署文章，可以用hexo d缩写</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p><img src="C:\Users\聂真豪\Desktop\Mynzh\source\images\2.png" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我的第一篇文章使用Hexo"><a href="#我的第一篇文章使用Hexo" class="headerlink" title="我的第一篇文章使用Hexo"></a>我的第一篇文章使用Hexo</h1><h2 id="2024-01-23"><a href="#2024-01-23" class="headerlink" title="2024.01.23"></a>2024.01.23</h2><pre><code>     在23号那天因为一个视频才开始学习包括各种视频.也是在那天看了很多视频在使用搭建Hexo过程中,遇到了太多的问题，第一次做这博客学习很多的东西，当然成品还可以。我呢，不是工程师，后面也在慢慢学，其实还有很多的问题。</code></pre><h2 id="2024-02-20"><a href="#2024-02-20" class="headerlink" title="2024.02.20"></a>2024.02.20</h2><pre><code>在这天，正式完成Hexo的全部搭建，我希望后面可以自己写一个属于我自己的主题，现在主题部分用的别人的，也包括域名。以后也会慢慢更新文章。</code></pre><p>Hexo三连：</p><p>hexo clean：删除之前生成的文件，若未生成过静态文件，可忽略此命令。<br>hexo generate：生成静态文章，可以用hexo g缩写<br>hexo deploy：部署文章，可以用hexo d缩写</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
