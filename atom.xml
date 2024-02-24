@@ -6,7 +6,7 @@
   <link href="https://oouuou.github.io/atom.xml" rel="self"/>
   
   <link href="https://oouuou.github.io/"/>
-  <updated>2024-02-24T03:49:08.221Z</updated>
+  <updated>2024-02-24T07:17:29.567Z</updated>
   <id>https://oouuou.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://oouuou.github.io/posts/7a6a6b5a.html"/>
+    <id>https://oouuou.github.io/posts/7a6a6b5a.html</id>
+    <published>2024-02-24T07:10:28.000Z</published>
+    <updated>2024-02-24T07:17:29.567Z</updated>
+    
+    <content type="html"><![CDATA[<p>叶落不知秋去，雪落方知已冬。</p><p>在手脚冰凉的季节，</p><p>搓搓手，</p><p>这个冬天，照顾好自己。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;叶落不知秋去，雪落方知已冬。&lt;/p&gt;
+&lt;p&gt;在手脚冰凉的季节，&lt;/p&gt;
+&lt;p&gt;搓搓手，&lt;/p&gt;
+&lt;p&gt;这个冬天，照顾好自己。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="文章测试" scheme="https://oouuou.github.io/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>搭建</title>
