@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oouuou.github.io/posts/a9879ccb.html</loc>
+    
+    <lastmod>2024-02-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oouuou.github.io/posts/78ac78b1.html</loc>
     
     <lastmod>2024-02-29</lastmod>
@@ -115,7 +124,7 @@
   </url>
   
   <url>
-    <loc>https://oouuou.github.io/tags/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
+    <loc>https://oouuou.github.io/tags/%E6%97%A5%E8%AE%B02/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -123,6 +132,13 @@
   
   <url>
     <loc>https://oouuou.github.io/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oouuou.github.io/tags/%E7%BD%91%E9%A1%B5%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2024-02-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
